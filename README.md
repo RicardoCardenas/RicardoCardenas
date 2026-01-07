@@ -17,7 +17,7 @@ Disfruto trabajar con arquitecturas limpias, aplicar buenas prácticas de desarr
 
 ---
 
-## Connect with Me
+## Contáctame
 
 - **LinkedIn:** [linkedin.com/in/ricardo-cardenas-4734a3323](https://linkedin.com/in/ricardo-cardenas-4734a3323)
 - **Email:** fernandocm1112@gmail.com
@@ -50,7 +50,7 @@ Disfruto trabajar con arquitecturas limpias, aplicar buenas prácticas de desarr
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
 
 
-### Tools & Others
+### Herramientas & Otros
 - Git & GitHub
 - Swagger / OpenAPI
 - Autenticación con JWT
