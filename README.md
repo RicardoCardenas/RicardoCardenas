@@ -17,14 +17,6 @@ Disfruto trabajar con arquitecturas limpias, aplicar buenas prácticas de desarr
 
 ---
 
-## Contáctame
-
-- **LinkedIn:** [linkedin.com/in/ricardo-cardenas-4734a3323](https://linkedin.com/in/ricardo-cardenas-4734a3323)
-- **Email:** fernandocm1112@gmail.com
-- **GitHub:** [github.com/RicardoCardenas](https://github.com/RicardoCardenas)
-
----
-
 ## Tech Stack
 
 ### Lenguajes
