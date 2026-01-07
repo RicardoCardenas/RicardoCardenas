@@ -1,5 +1,3 @@
-<img width="763" height="252" alt="image" src="https://github.com/user-attachments/assets/ae606eed-0426-4683-b74e-bb5fe2e945eb" />
-
 # Hola, soy Ricardo Cardenas
 
 **Estudiante de Ingeniería de Software** | **Desarrollador Backend** | **Interés en Cloud & DevOps**
