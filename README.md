@@ -29,10 +29,10 @@ Disfruto trabajar con arquitecturas limpias, aplicar buenas prácticas de desarr
 
 ### Lenguajes
 ![Java](https://img.shields.io/badge/Java-%23e86f01.svg?&style=for-the-badge&logo=coffeescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%23f7c839.svg?&style=for-the-badge&logo=python&logoColor=%23316994)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23f7c839.svg?&style=for-the-badge&logo=python&logoColor=%23316994)
 
 ### Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
