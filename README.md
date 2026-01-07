@@ -4,8 +4,8 @@
 
 Soy estudiante de Ingeniería de Software con un fuerte enfoque en el desarrollo backend, apasionado por construir sistemas robustos, escalables y mantenibles.
 Cuento con bases sólidas en Java, C#, Node.js, bases de datos y tecnologías cloud, con experiencia académica práctica en CI/CD, despliegues automatizados en Microsoft Azure y contenerización usando Docker.
-
 Disfruto trabajar con arquitecturas limpias, aplicar buenas prácticas de desarrollo y mantenerme en constante aprendizaje dentro del cambiante mundo del software.
+
 ---
 
 ## Acerca de mí
