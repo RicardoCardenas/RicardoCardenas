@@ -25,7 +25,7 @@ Disfruto trabajar con arquitecturas limpias, aplicar buenas prácticas de desarr
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%23f7c839.svg?&style=for-the-badge&logo=python&logoColor=%23316994)
-![HTTP](https://img.shields.io/badge/HTTP-%23000000.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
