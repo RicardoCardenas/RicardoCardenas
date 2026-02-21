@@ -27,7 +27,6 @@ Disfruto trabajar con arquitecturas limpias, aplicar buenas prácticas de desarr
 ### Backend
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)
 
 ### Frontend
