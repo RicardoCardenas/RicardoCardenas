@@ -12,8 +12,6 @@ I build **REST APIs, backend services, and database-driven applications**, and I
 
 🎯 **Currently seeking pre-professional internships** in **Software Development (Backend / Full Stack), Data Analytics / BI, Data Engineering, Cloud, and applied AI**.
 
-**En español:** Soy estudiante de Ingeniería de Software de 8.º ciclo en la UPC, perteneciente al décimo superior. Me interesa desarrollar soluciones backend y cloud, así como proyectos de ingeniería y análisis de datos. Actualmente busco prácticas preprofesionales en desarrollo de software, Data/BI, Cloud e IA aplicada.
-
 ---
 
 ## 🛠️ Technical Skills
