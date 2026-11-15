@@ -1,78 +1,88 @@
-# Hi, I'm Ricardo Cardenas
+# Hi, I'm Ricardo Cardenas 👋
 
-**Software Engineering Student** | **Backend, Cloud & Data Enthusiast** | **Passionate about Building Scalable Software**
+**Software Engineering Student @ UPC, Peru | Backend & Cloud Development | Data Engineering & Analytics**
 
-I'm a Software Engineering student currently completing my seventh semester, passionate about designing and developing scalable, secure, and maintainable software solutions.
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RicardoCardenas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-cardenas-minaya-4734a3323)
+![Azure Fundamentals](https://img.shields.io/badge/Certified-Azure%20Fundamentals-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-My experience includes building REST APIs, cloud-native applications, CI/CD pipelines, database-driven systems, and data analytics solutions using modern technologies such as Spring Boot, ASP.NET, Microsoft Azure, Google Cloud, Docker, BigQuery, and Looker Studio.
+I'm an **8th-semester Software Engineering student at Universidad Peruana de Ciencias Aplicadas (UPC)** in Lima, Peru, ranked in the **top 10% of my class**.
 
-I'm always looking for opportunities to learn new technologies, improve my software engineering skills, and contribute to impactful projects.
+I build **REST APIs, backend services, and database-driven applications**, and I also work on **data pipelines, analytics, and business intelligence** solutions. My academic projects use technologies such as **Java, Spring Boot, C#/.NET, Python, SQL, Docker, Microsoft Azure, and Google Cloud**.
 
----
+🎯 **Currently seeking pre-professional internships** in **Software Development (Backend / Full Stack), Data Analytics / BI, Data Engineering, Cloud, and applied AI**.
 
-## About Me
-
-- Software Engineering student (7th semester completed)
-- Interested in Cloud Computing, Backend Development, Software Architecture, and Data Engineering
-- Experience with data analytics, ETL pipelines, and business intelligence using Google Cloud
-- Experience with Azure, Google Cloud, Docker, and CI/CD
-- Always learning new technologies and software engineering best practices
+**En español:** Soy estudiante de Ingeniería de Software de 8.º ciclo en la UPC, perteneciente al décimo superior. Me interesa desarrollar soluciones backend y cloud, así como proyectos de ingeniería y análisis de datos. Actualmente busco prácticas preprofesionales en desarrollo de software, Data/BI, Cloud e IA aplicada.
 
 ---
 
-# Tech Stack
+## 🛠️ Technical Skills
 
-## Languages
-
-![Java](https://img.shields.io/badge/Java-%23e86f01.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23f7c839.svg?&style=for-the-badge&logo=python&logoColor=%23316994)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-
-## Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?&style=for-the-badge&logo=dotnet&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)
-
-## Frontend
-
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
-
-## Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-
-## Cloud
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-## DevOps & Data
-
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+| Area | Technologies & Practices |
+| --- | --- |
+| **Programming** | Java, C#, Python, JavaScript, SQL |
+| **Backend** | Spring Boot, ASP.NET / .NET, Node.js, Express, Flask, REST APIs |
+| **Frontend** | Angular, Vue.js |
+| **Databases** | PostgreSQL, MySQL, MongoDB, BigQuery, DuckDB |
+| **Data & BI** | Pandas, NumPy, Power BI, Looker Studio, Dataform, BigQuery ML |
+| **Cloud & DevOps** | Microsoft Azure, Google Cloud, Docker, GitHub Actions, Git, CI/CD |
+| **Engineering Practices** | Domain-Driven Design (DDD), SOLID, API documentation, Agile / Scrum |
 
 ---
 
-## Software Engineering & Data Practices
+## 🚀 Featured Projects
 
-- REST API Development
-- Object-Oriented Programming
-- Domain-Driven Design (DDD)
-- Software Architecture
-- CI/CD Pipelines
-- Docker Containerization
-- JWT Authentication
-- Unit Testing
-- ETL & Data Pipelines
-- Data Modeling
-- Business Intelligence Dashboards
-- BigQuery ML
-- Git & GitHub
-- Agile / Scrum
+### 📊 Data Engineering & Analytics
+
+**[E-commerce Data Pipeline](https://github.com/RicardoCardenas/E-commerce-Data-pipeline)**  
+*Google Cloud · BigQuery · SQL · Dataform · Looker Studio · BigQuery ML*
+
+An end-to-end e-commerce analytics project focused on consolidating business transactions in BigQuery, transforming data for analysis, visualizing commercial KPIs in Looker Studio, and exploring customer segmentation with BigQuery ML.
+
+**[Customer Churn Analytics](https://github.com/RicardoCardenas/Customer-Churn-Analytics)**  
+*Python · Pandas · Scikit-learn · DuckDB · Power BI · DAX*
+
+A telecom customer retention analysis project covering data cleaning, exploratory data analysis, customer segmentation, and interactive reporting to understand churn patterns and support business decisions.
+
+### 💻 Backend & Software Engineering
+
+**[Capital Cruise](https://github.com/RicardoCardenas/Capital-Cruise)**  
+*Java · Spring Boot · PostgreSQL / Supabase · Docker · GCP*
+
+A vehicle financing and commercial simulation platform. I worked on REST API development, database integration, schema migrations with Flyway, and API documentation with OpenAPI/Swagger, applying Domain-Driven Design principles.
+
+**[OneCoin Backend](https://github.com/RicardoCardenas/OneCoin-Backend)**  
+*JavaScript · Node.js · Express*
+
+A backend for a social networking application, exposing REST endpoints for authentication, posts, comments, messages, and friend requests.
+
+**[Jobsy Backend](https://github.com/RicardoCardenas/Jobsy-Backend)**  
+*C# · .NET*
+
+A recruitment platform backend exposing APIs for authentication, publishing job opportunities, and managing candidate applications.
+
+**[NotesApp Backend](https://github.com/RicardoCardenas/NotesApp-Backend)**  
+*Java · Spring Boot*
+
+A REST API for managing personal notes, including standard create, read, update, and delete operations.
+
+> Explore the repositories for source code and project-specific details. I am continuing to improve their documentation and demonstrations.
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.S. in Software Engineering (in progress)** — Universidad Peruana de Ciencias Aplicadas (UPC), Peru | Expected graduation: **December 2027** | **Top 10%**
+- **Microsoft Certified: Azure Fundamentals** — September 2026
+- **TOEFL ITP** — B2, June 2024
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **internships, collaborative projects, and opportunities to learn from engineering and data teams**.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ricardo-cardenas-minaya-4734a3323)
+- 🧑‍💻 [GitHub](https://github.com/RicardoCardenas)
+
+*Based in Lima, Peru · Spanish (native) · English (advanced)*
