@@ -20,7 +20,7 @@ I build **REST APIs, backend services, and database-driven applications**, and I
 | --- | --- |
 | **Programming** | Java, C#, Python, JavaScript, SQL |
 | **Backend** | Spring Boot, ASP.NET / .NET, Node.js, Express, Flask, REST APIs |
-| **Frontend** | Angular, Vue.js |
+| **Frontend** | Angular, Vue.js, React |
 | **Databases** | PostgreSQL, MySQL, MongoDB, BigQuery, DuckDB |
 | **Data & BI** | Pandas, NumPy, Power BI, Looker Studio, Dataform, BigQuery ML |
 | **Cloud & DevOps** | Microsoft Azure, Google Cloud, Docker, GitHub Actions, Git, CI/CD |
